@@ -10,6 +10,7 @@ using namespace std;
 int main(){
 	string str;
 	cin >> str;
+	//cin only works for single words
 	cout << str;
 	return(0);
 }
